@@ -1,6 +1,6 @@
 const sonarqubeScanner = require('sonarqube-scanner');
 const serverUrl = process.env.SONAR_HOST_URL || 'http://13.233.231.77:9000/';
-const token = process.env.SONAR_TOKEN || '';
+const token = process.env.SONAR_TOKEN || 'sqa_5cbaeef3c359febf23be336c49424fffce37d09f';
 
 sonarqubeScanner({
   serverUrl: serverUrl,
