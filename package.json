@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.233.231.77:9000/"
+    "registry": "http://13.201.46.223:8081/repository/syed-nodejs/"
   },
   
   "scripts": {
