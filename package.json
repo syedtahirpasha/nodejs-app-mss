@@ -12,7 +12,9 @@
   "start": "node app.js",
   "dev": "nodemon app.js",
   "test": "echo \"No tests specified\" && exit 0",
+  "scripts": {
   "sonar": "node sonar-project.js"
+}
 },
 
   "dependencies": {
